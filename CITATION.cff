@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+title: "MSL: Mapeamento Sistemático da Literatura com IA"
+message: "Se utilizar este pipeline em sua pesquisa, cite conforme abaixo."
+type: software
+authors:
+  - family-names: "De Maria"
+    given-names: "Pier Francesco"
+    orcid: "https://orcid.org/0000-0003-1389-3082"
+repository-code: "https://github.com/dpierf/MSL"
+url: "https://huggingface.co/spaces/dpierf/msl-povmig"
+abstract: "Pipeline automatizado em Python para Mapeamento Sistemático da Literatura (MSL), com triagem assistida por LLM, análise bibliométrica, processamento de linguagem natural e dashboard interativo. Desenvolvido como extensão computacional do artigo publicado por Maria (2019)."
+keywords:
+  - mapeamento sistemático da literatura
+  - revisão sistemática
+  - large language models
+  - bibliometria
+  - processamento de linguagem natural
+  - pobreza
+  - migração
+  - Python
+  - OpenAlex
+license: MIT
+date-released: "2026-05-15"
+references:
+  - type: article
+    authors:
+      - family-names: "De Maria"
+        given-names: "Pier Francesco"
+        orcid: "https://orcid.org/0000-0003-1389-3082"
+    title: "Mapeando relações em pesquisas sobre pobreza e migração (1980–2017)"
+    journal: "Mercator"
+    volume: 18
+    year: 2019
+    doi: "10.4215/rm2019.e18003"
